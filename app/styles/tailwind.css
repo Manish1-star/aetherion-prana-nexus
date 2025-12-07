@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 5 5 5; /* Void Black */
+    --foreground: 255 255 255;
+  }
+  body {
+    background-color: rgb(var(--background));
+    color: rgb(var(--foreground));
+    margin: 0;
+    overflow-x: hidden;
+  }
+}
