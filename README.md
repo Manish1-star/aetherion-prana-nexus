@@ -14,7 +14,5 @@ Aetherion is a civilization-grade Life Mastery Ecosystem fusing **Himalayan Wisd
 
 1. **Clone the Singularity:**
    ```bash
-   ## ⚡ Deploy Instantly
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Manish1-star/aetherion-prana-nexus)
-
+   git clone https://github.com/Manish1-star/aetherion-prana-nexus.git
+   cd aetherion-prana-nexus
