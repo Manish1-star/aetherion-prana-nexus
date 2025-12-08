@@ -18,4 +18,3 @@ Aetherion is a civilization-grade Life Mastery Ecosystem fusing **Himalayan Wisd
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Manish1-star/aetherion-prana-nexus)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Manish1-star/aetherion-prana-nexus)
